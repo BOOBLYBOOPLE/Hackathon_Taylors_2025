@@ -11,10 +11,12 @@ Descriptions - EcoLuxe is a mobile app that helps users or companies to understa
 Team members 
 1) Manchester Lim Yung Zen 
 2) Liu Zhi 
-3) Chew Ruo Ren 
+3) Chew Ruo Ren
+
 Technology used
 1) Frontend: Unity UI Toolkit 
 2) Eco-Rating Method: EcoVadis API
+
 Challenge and Approach 
 Challenge: How might we leverage fintech to drive sustainable financial behaviors in Malaysia by giving users clear, actionable insights into the environmental impact of their everyday purchases?
 Approach: 
